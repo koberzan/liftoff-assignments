@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This project provides users with a personal blog design that can be used in conjunction with Wordpress. The Wordpress theme includes an attractive layout to showcase photography along with content posts. The theme includes features that allow the user to search for content related to keyword, to share posts on social media sites, and to filter the blog listings by date. This theme will help elevate blog content to a professional standard with minimal effort on behalf of the user. 
 ### Features
-Include Features here
+Search: Users can search for relevant content based on keywords
+Share: Users can search blog posts via their social media channels
+Filter: Users can filter blog posts by data
+
 ### Technologies
-Include Technologies here
+Javascript
+HTML
+CSS
+Bootstrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to familiarize myself with the Wordpress platform and learn more advanced front-end design skills to create a professional looking product. I will have to learn Wordpress plugins to enhance the features of the theme.  
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/UnN27MJ3
