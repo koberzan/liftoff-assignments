@@ -7,18 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-This app will be geared towards users looking to 
+This app will be geared towards users looking for recommended things to do while visiting Kansas City. Users will answer several questions to indicate their interests and the app with output a suggested itenerary for things to do in Kansas City for that user.  
 
-feature a questionaire that gathers insight into the user's interests and provide a recommended iternary as an outcome. 
-
-This project provides users with a personal blog design that can be used in conjunction with Wordpress. The Wordpress theme includes an attractive layout to showcase photography along with content posts. The theme includes features that allow the user to search for content related to keyword, to share posts on social media sites, and to filter the blog listings by date. This theme will help elevate blog content to a professional standard with minimal effort on behalf of the user. 
 ### Features
 ###
-Search: Users can search for relevant content based on keywords
+Quiz: Users will be prompted to answer several multiple choice questions
 ###
-Share: Users can search blog posts via their social media channels
+Share: Users will be able to share their results via email
 ###
-Filter: Users can filter blog posts by data
+Navagation Bar: App will feature a navagation bar to easily move through the various pages
 
 ### Technologies
 Javascript
@@ -27,7 +24,7 @@ CSS
 Bootstrap
 
 ### What I'll Have to Learn
-I'll have to familiarize myself with the Wordpress platform and learn more advanced front-end design skills to create a professional looking product. I will have to learn Wordpress plugins to enhance the features of the theme.  
+I'll need to learn how to use Javascript to click through various questions and I'd like to learn some more advance design features to create a professional looking end product.  
 
 ### Project Tracker
 https://trello.com/b/UnN27MJ3
