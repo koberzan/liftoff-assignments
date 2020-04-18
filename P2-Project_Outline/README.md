@@ -7,6 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
+This app will be geared towards users looking to 
+
+feature a questionaire that gathers insight into the user's interests and provide a recommended iternary as an outcome. 
+
 This project provides users with a personal blog design that can be used in conjunction with Wordpress. The Wordpress theme includes an attractive layout to showcase photography along with content posts. The theme includes features that allow the user to search for content related to keyword, to share posts on social media sites, and to filter the blog listings by date. This theme will help elevate blog content to a professional standard with minimal effort on behalf of the user. 
 ### Features
 ###
