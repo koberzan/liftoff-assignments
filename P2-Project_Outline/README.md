@@ -18,10 +18,7 @@ Share: Users will be able to share their results via email
 Navagation Bar: App will feature a navagation bar to easily move through the various pages
 
 ### Technologies
-Javascript
-HTML
-CSS
-Bootstrap
+Javascript, HTML, CSS, Bootstrap
 
 ### What I'll Have to Learn
 I'll need to learn how to use Javascript to click through various questions and I'd like to learn some more advance design features to create a professional looking end product.  
